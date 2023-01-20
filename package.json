@@ -1,0 +1,22 @@
+{
+  "name": "fasttech-system",
+  "version": "1.0.0",
+  "description": "end module exam SDM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocean2197x/FastTech-System.git"
+  },
+  "author": "sagar band",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocean2197x/FastTech-System/issues"
+  },
+  "homepage": "https://github.com/ocean2197x/FastTech-System#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

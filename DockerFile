@@ -1,0 +1,10 @@
+
+From node:12
+workDIR "S:\CDAC\SDM\AWSTesting"
+COPY PACKAGE .JSON/AWSTESTING
+RUN npm install
+COPY ./FastTech-System
+CMD node server.js
+EXPOSE 8000
+
+- git status -> git add . ->git commit -m"hello" ->git push
